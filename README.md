@@ -12,7 +12,7 @@ In this project, we'll discuss use cases, a common way of describing requirement
 2. [Chapter II](#chapter-ii) \
    2.1. [General Rules](#21)
 3. [Chapter III](#chapter-iii) \
-   3.1. [Use Cases)](#31) \
+   3.1. [Use Cases](#31) \
    3.2. [Recommendations](#32) \
    3.3. [Use Cases Links](#33)
 4. [Chapter IV](#chapter-iv) \
@@ -149,7 +149,7 @@ There is no universal format for use cases. Typically, teams choose one or anoth
 8. It is recommended that user interface, non-functional requirements, business rules should not be written directly in the use case, but described separately and referenced in the use case in the Extras field.
 9. Keep the use case at the same level throughout its description, do not overload it with unnecessary details.
 
-**Example**: **Use Case "Buy stocks over the web"*.
+**Example**: *Use Case "Buy stocks over the web"*.
 
 *Precondition:* User already has PAF open.
 
@@ -228,7 +228,7 @@ For Task 1, use the Use Case form to describe the interaction with the system to
 10. Specify the postconditions (conditions that must be true when the use case is completed):
     1. minimal guarantees: conditions that must be true at each end of the use case;
     2. success guarantees: conditions that must be true when a use case succeeds. 
-11. Indicate your answers in the file ex00\_<product prefix>\_use case.docx.
+11. Indicate your answers in the file `ex00_<product prefix>_US.docx`.
 
 ### Exercise 01 — Description of Use Case Flows <div id="52"></div>
 
@@ -251,7 +251,7 @@ For Task 1, use the Use Case form to describe the functional interaction for pro
     1. the step number of the main scenario;
     2. the letter of the branch from the main scenario step (alternate scenario letter);
     3. the step number within the alternate scenario.
-11. Indicate your answers in the file ex00\_<product prefix>\_use case.docx.
+11. Indicate your answers in the file `ex01_<product prefix>_US.docx`.
 
 ### Exercise 02 — Description of Use Cases <div id="53"></div>
 
@@ -260,7 +260,7 @@ For Task 1, use the Use Case form to describe how the client interacts with the 
 1. Describe the use cases as required in 1-11 ex.00.
 Identify one or more separate use case(s) with an "include" or "extend" relationship.  
 3. Specify the type of relationship for each identified use case.
-4. Indicate your answers in the file ex02\_<product prefix>\_use case.docx.
+4. Indicate your answers in the file e`x02_<product prefix>_US.docx`.
 
 ### Exercise 03 — Description of Use Case Flows <div id="54"></div>
 
@@ -268,7 +268,7 @@ For Task 1, describe the basic flow and alternative flows of functional interact
 
 1. Describe the flows of the use case(s) as required in 1-11 ex.01.
 2. Describe the flows of the identified use case(s).  
-3. Indicate your answers in the file ex02\_<product prefix>\_use case.docx.
+3. Indicate your answers in the file `ex03_<product prefix>_US.docx`.
 
 ### Exercise 04 — Description of Use Cases <div id="55"></div>
 
@@ -277,7 +277,7 @@ For Task 1, use the Use Case form to describe the Master's interaction with the 
 1. Describe the use cases as required in 1-11 ex.00.
 2. Identify a separate use case(s), with an "include" or "extend" relationship. 
 3. Specify the type of relationship for each identified use case.
-4. Indicate your answers in the file ex04\_<product prefix>\_use case.docx.
+4. Indicate your answers in the file `ex04_<product prefix>_US.docx`.
 
 ### Exercise 05 — Description of Use Case Flows <div id="56"></div>
 
@@ -285,4 +285,4 @@ For Task 1, describe the basic flow and alternative flows of functional interact
 
 1. Describe the flows of the use case(s) as required in 1-11 ex.01.
 2. Describe the flows of the identified use case(s). 
-3. Indicate your answers in the file ex04\_<product prefix>\_use case.docx.
+3. Indicate your answers in the file `ex05_<product prefix>_US.docx`.
