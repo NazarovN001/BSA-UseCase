@@ -174,7 +174,7 @@ There is no universal format for use cases. Typically, teams choose one or anoth
 
 ### 3. Use Case Relationships <div id="33"></div>
 
-Sometimes some common functionality is needed by multiple use cases or to identify a complex part. For example, pricing and risk analysis (see figure below) use the same value calculation. In this case, it is better to describe the common part of the use case separately and include it in each use case where it is applied. This relationship is called *include*. The included use case does not need to be complete in itself, unless it is directly initiated by the actor. 
+Sometimes some common functionality is needed by multiple use cases or to identify a complex part. For example, pricing and risk analysis use the same value calculation. In this case, it is better to describe the common part of the use case separately and include it in each use case where it is applied. This relationship is called *include*. The included use case does not need to be complete in itself, unless it is directly initiated by the actor. 
 
 Another type of relationship, *extend*, allows you to add a description of additional functionality to a use case. The extending use case must itself be fully functional. Its successful execution should not depend on the extending use case. An alternative scenario can be shown with an extension.
 
